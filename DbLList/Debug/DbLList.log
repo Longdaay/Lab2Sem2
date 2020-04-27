@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Longday\source\repos\DbLList\Source.cpp(1868,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  DbLList.vcxproj -> C:\Users\Longday\source\repos\DbLList\Debug\DbLList.exe

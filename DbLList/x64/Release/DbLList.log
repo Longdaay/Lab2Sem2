@@ -1,0 +1,12 @@
+﻿  Source.cpp
+C:\Users\Longday\source\repos\DbLList\Source.cpp(186,14): warning C4267:  return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Longday\source\repos\DbLList\Source.cpp(250,6): warning C4267:  аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Longday\source\repos\DbLList\Source.cpp(310,5): warning C4267:  аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Longday\source\repos\DbLList\Source.cpp(421,6): warning C4267:  аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Longday\source\repos\DbLList\Source.cpp(2259,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода
+  6 of 205 functions ( 2.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  DbLList.vcxproj -> C:\Users\Longday\source\repos\DbLList\x64\Release\DbLList.exe

@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\Longday\source\repos\DbLList\Source.cpp(178,14): warning C4267:  return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Longday\source\repos\DbLList\Source.cpp(240,6): warning C4267:  аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Longday\source\repos\DbLList\Source.cpp(300,5): warning C4267:  аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Longday\source\repos\DbLList\Source.cpp(368,5): warning C4267:  аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Longday\source\repos\DbLList\Source.cpp(1893,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  DbLList.vcxproj -> C:\Users\Longday\source\repos\DbLList\x64\Debug\DbLList.exe
